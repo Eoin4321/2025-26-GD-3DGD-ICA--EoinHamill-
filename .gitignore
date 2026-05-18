@@ -72,3 +72,10 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Unreal generated folders
+**/Saved/
+**/Intermediate/
+**/DerivedDataCache/
+**/Binaries/
+**/.vs/
