@@ -7,18 +7,6 @@ This project is an escape room game created in Unreal Engine for my ICA assignme
 
 The game is set late at night and uses a dark, moody atmosphere. The apartment is designed to feel old, neglected, and slightly unsettling. Crooked paintings, knocked-over furniture, and scattered objects are used to suggest that the space has been disturbed before the player arrives.
 
-
-## Setting and Environment
-
-The game takes place inside an old apartment building at night. The environment was designed to support the idea of sneaking through a neglected space.
-
-Both the lobby and bedroom contain environmental details such as fallen furniture, messy props, and damaged-looking paintings. These elements help suggest that the apartment has a history and that something may have happened before the player entered.
-
-The bedroom was designed to feel like a believable living space. It includes a bed, a clothes cabinet, a desk, and a door leading further into the apartment.
-
-The environment was created by kitbashing assets together. I began by blocking out the level using simple shapes, then added detail once the layout and gameplay flow were working correctly. This made it easier to build the space around the puzzle mechanics.
-
-
 ## References
 
 ### Assets from Fab
